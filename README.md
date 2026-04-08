@@ -1,16 +1,16 @@
-🚀 AI Customer Success Workflow
+## 🚀 AI Customer Success Workflow
 
 An AI-powered Customer Success system designed to proactively identify churn risks, improve customer engagement, and drive product adoption through data and automation.
 
-🧩 Problem
+## 🧩 Problem
 
 Customer Success teams often operate reactively, identifying risks too late due to limited visibility into customer behavior and fragmented data across tools.
 
-🎯 Objective
+## 🎯 Objective
 
 Build a proactive system that enables early identification of at-risk customers and supports data-driven engagement to improve retention and adoption.
 
-💡 Solution
+## 💡 Solution
 
 This project demonstrates an AI-driven Customer Success workflow that:
 
@@ -19,34 +19,41 @@ Calculates dynamic health scores
 Identifies churn risks using behavioral signals
 Generates actionable insights using AI
 Triggers automated workflows for timely intervention
-⚙️ How It Works
 
-1. Data Tracking
+
+## ⚙️ How It Works
+
+## 1. Data Tracking
 Collects key customer signals such as logins, feature usage, and support interactions
 
-2. Health Scoring
+## 2. Health Scoring
 Assigns scores based on engagement and activity patterns
 
-3. AI Insights
+## 3. AI Insights
 Analyzes data to identify risks and recommend next actions
 
-4. Automated Actions
+## 4. Automated Actions
 Triggers alerts, tasks, or outreach workflows for Customer Success teams
 
-📈 Impact
+## 📈 Impact
 Improves customer retention through early risk detection
 Drives product adoption with targeted engagement
 Reduces manual effort through automation
 Creates scalable Customer Success processes
-🛠 Tools & Concepts
+
+......
+
+## 🛠 Tools & Concepts
 Notion (data tracking & workflow management)
 AI (insight generation & recommendations)
 Automation tools (Zapier / integrations)
-🚀 Why This Project
 
+## 🚀 Why This Project
 I built this to showcase how Customer Success can evolve from reactive support to a proactive, data-driven, and AI-powered function.
 
-🔗 Connect
+............
+
+## 🔗 Connect
 GitHub: https://github.com/shuchi-minhas
 LinkedIn: https://www.linkedin.com/in/shuchi-minhas-173ab838/
 
